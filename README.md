@@ -15,11 +15,11 @@ Avant de lancer le bot, d?finissez les variables d'environnement suivantes?:
 Vous pouvez les d?finir en ligne de commande?:
 
 ```bash
-export TELEGRAM_BOT_TOKEN="123456:ABC..."
-export TELEGRAM_ADMIN_ID="123456789"
-export TELEGRAM_WEB_APP_URL="https://example.com/app"
-export TELEGRAM_CHANNEL_URL="https://t.me/+JoinLink"
-export TELEGRAM_CONTACT_USERNAME="SupportAccount"
+export TELEGRAM_BOT_TOKEN="8329422168:AAHxxYoB2GeDk_UVKoQoBJo6TiPdBnsQfiE"
+export TELEGRAM_ADMIN_ID="7534164397"
+export TELEGRAM_WEB_APP_URL="https://votre-mini-app.example/"   # ? renseigner d?s que disponible
+export TELEGRAM_CHANNEL_URL="https://t.me/+TUar__WdjbE4ZmY0"
+export TELEGRAM_CONTACT_USERNAME="PuffLabz"
 ```
 
 ## Installation
